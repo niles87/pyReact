@@ -1,5 +1,5 @@
 # <p align="center">PyReact</p>
 
-## Overview 
+## Overview
 
-Django backend framework and React with Redux frontend framework.
+Django backend framework and React with Redux frontend.
